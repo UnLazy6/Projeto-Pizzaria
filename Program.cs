@@ -11,7 +11,9 @@ while (continuar){
     Console.WriteLine("Escolha uma opção:");
     Console.WriteLine("1 - Criar pizza");
     Console.WriteLine("2 - Listar pizzas");
-    Console.WriteLine("3 - Sair do programa");
+    Console.WriteLine("3 - Criar novo pedido");
+    Console.WriteLine("4 - Listar pedidos");
+    Console.WriteLine("5 - Sair do programa");
 
     Console.WriteLine("Digite sua opção: ");
     var opcao = Console.ReadLine();
@@ -50,6 +52,14 @@ while (continuar){
             break;
 
         case "3":
+
+        break;
+
+        case "4":
+
+        break;
+
+        case "5":
             continuar = false;
             Console.WriteLine("\nSaindo...");
             break;
