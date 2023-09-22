@@ -13,3 +13,17 @@ C:\Users\caio_dantas\Desktop\Projeto\obj\Debug\net6.0\refint\Projeto.dll
 C:\Users\caio_dantas\Desktop\Projeto\obj\Debug\net6.0\Projeto.pdb
 C:\Users\caio_dantas\Desktop\Projeto\obj\Debug\net6.0\Projeto.genruntimeconfig.cache
 C:\Users\caio_dantas\Desktop\Projeto\obj\Debug\net6.0\ref\Projeto.dll
+C:\Users\Amd\Desktop\Projeto Pizzaria\Projeto-Pizzaria\obj\Debug\net6.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amd\Desktop\Projeto Pizzaria\Projeto-Pizzaria\obj\Debug\net6.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\Amd\Desktop\Projeto Pizzaria\Projeto-Pizzaria\obj\Debug\net6.0\Projeto.AssemblyInfo.cs
+C:\Users\Amd\Desktop\Projeto Pizzaria\Projeto-Pizzaria\obj\Debug\net6.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Amd\Desktop\Projeto Pizzaria\Projeto-Pizzaria\obj\Debug\net6.0\Projeto.dll
+C:\Users\Amd\Desktop\Projeto Pizzaria\Projeto-Pizzaria\obj\Debug\net6.0\refint\Projeto.dll
+C:\Users\Amd\Desktop\Projeto Pizzaria\Projeto-Pizzaria\obj\Debug\net6.0\Projeto.pdb
+C:\Users\Amd\Desktop\Projeto Pizzaria\Projeto-Pizzaria\bin\Debug\net6.0\Projeto.exe
+C:\Users\Amd\Desktop\Projeto Pizzaria\Projeto-Pizzaria\bin\Debug\net6.0\Projeto.deps.json
+C:\Users\Amd\Desktop\Projeto Pizzaria\Projeto-Pizzaria\bin\Debug\net6.0\Projeto.runtimeconfig.json
+C:\Users\Amd\Desktop\Projeto Pizzaria\Projeto-Pizzaria\bin\Debug\net6.0\Projeto.dll
+C:\Users\Amd\Desktop\Projeto Pizzaria\Projeto-Pizzaria\bin\Debug\net6.0\Projeto.pdb
+C:\Users\Amd\Desktop\Projeto Pizzaria\Projeto-Pizzaria\obj\Debug\net6.0\Projeto.genruntimeconfig.cache
+C:\Users\Amd\Desktop\Projeto Pizzaria\Projeto-Pizzaria\obj\Debug\net6.0\ref\Projeto.dll

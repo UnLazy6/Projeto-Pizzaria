@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\caio_dantas\\.nuget\\packages\\": {}
+    "C:\\Users\\Amd\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\caio_dantas\\Desktop\\Projeto\\Projeto.csproj",
+      "projectUniqueName": "C:\\Users\\Amd\\Desktop\\Projeto Pizzaria\\Projeto-Pizzaria\\Projeto.csproj",
       "projectName": "Projeto",
-      "projectPath": "C:\\Users\\caio_dantas\\Desktop\\Projeto\\Projeto.csproj",
-      "packagesPath": "C:\\Users\\caio_dantas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\caio_dantas\\Desktop\\Projeto\\obj\\",
+      "projectPath": "C:\\Users\\Amd\\Desktop\\Projeto Pizzaria\\Projeto-Pizzaria\\Projeto.csproj",
+      "packagesPath": "C:\\Users\\Amd\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Amd\\Desktop\\Projeto Pizzaria\\Projeto-Pizzaria\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\caio_dantas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Amd\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
